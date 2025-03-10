@@ -1,0 +1,4 @@
+graphistry==0.33.9
+llama_index==0.12.23
+numpy==1.24.4
+ollama==0.4.7
