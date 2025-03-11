@@ -1,9 +1,9 @@
 # config/config.py
-model = "deepseek-r1"
+model = "gemma2:27b"
 class_name = "Ollama"
 base_url = "http://localhost:11434"
 api_key = ""
 temperature = 0.0
 
 #embedding
-embedding_model = "nomic_embed_text"
+embedding_model = "nomic-embed-text"

@@ -1,3 +1,6 @@
 graphistry==0.33.9
 llama_index==0.12.23
 ollama==0.4.7
+graspologic==3.4.1
+future==1.0.0
+tavily-python==0.5.1
